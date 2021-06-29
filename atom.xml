@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kagamine.xyz</id>
+    <title>Zhengfourth&apos;s blog</title>
+    <updated>2021-06-29T05:15:24.796Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kagamine.xyz"/>
+    <link rel="self" href="https://kagamine.xyz/atom.xml"/>
+    <subtitle>リンちゃんなう！</subtitle>
+    <logo>https://kagamine.xyz/images/avatar.png</logo>
+    <icon>https://kagamine.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2021, Zhengfourth&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[【麻将】计算普通立直麻将规则下配牌的向听数分布列]]></title>
+        <id>https://kagamine.xyz/post/nya/</id>
+        <link href="https://kagamine.xyz/post/nya/">
+        </link>
+        <updated>2021-05-03T15:46:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合省选2021共8题口胡题解]]></title>
+        <id>https://kagamine.xyz/post/sx2021/</id>
+        <link href="https://kagamine.xyz/post/sx2021/">
+        </link>
+        <updated>2021-04-14T14:15:58.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[清一色麻将人和率计算器]]></title>
+        <id>https://kagamine.xyz/post/renhe/</id>
+        <link href="https://kagamine.xyz/post/renhe/">
+        </link>
+        <updated>2021-03-03T10:19:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【麻将】计算普通立直麻将规则下天和的概率]]></title>
+        <id>https://kagamine.xyz/post/2143179701279-708384171528036000/</id>
+        <link href="https://kagamine.xyz/post/2143179701279-708384171528036000/">
+        </link>
+        <updated>2021-02-27T11:26:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://kagamine.xyz/post/about/</id>
+        <link href="https://kagamine.xyz/post/about/">
+        </link>
+        <updated>2021-02-22T10:11:03.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[题解 P7323 【[WC2021] 括号路径】]]></title>
+        <id>https://kagamine.xyz/post/wc2021-t1/</id>
+        <link href="https://kagamine.xyz/post/wc2021-t1/">
+        </link>
+        <updated>2021-02-05T07:07:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自己做的图]]></title>
+        <id>https://kagamine.xyz/post/moalgo/</id>
+        <link href="https://kagamine.xyz/post/moalgo/">
+        </link>
+        <updated>2021-01-20T13:52:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCOI R4 A solution]]></title>
+        <id>https://kagamine.xyz/post/mcoi-r4-a-solution/</id>
+        <link href="https://kagamine.xyz/post/mcoi-r4-a-solution/">
+        </link>
+        <updated>2021-01-15T13:04:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[立直麻将算点器]]></title>
+        <id>https://kagamine.xyz/post/mjs/</id>
+        <link href="https://kagamine.xyz/post/mjs/">
+        </link>
+        <updated>2020-12-14T11:22:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOIp2020 T3 移球游戏 题解 附带70分解法]]></title>
+        <id>https://kagamine.xyz/post/noip2020-t3/</id>
+        <link href="https://kagamine.xyz/post/noip2020-t3/">
+        </link>
+        <updated>2020-12-05T11:36:05.000Z</updated>
+    </entry>
+</feed>
